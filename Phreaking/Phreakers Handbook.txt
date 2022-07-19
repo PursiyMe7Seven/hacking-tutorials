@@ -5,20 +5,20 @@ PHREAKERS HANDBOOK
 Title: PHREAKERS HANDBOOK
 Written: CAT-TRAX
    _________________________
-  ›                         ›
-  › The Phreaker's HandBook
-  ›___________________________________________
-  ›                                                                  
-  ›       Written by:  Cat-Trax ≈The "White-Collar Criminal
-  ›       Typed by:    Cat-Trax                                         
-  ›                                                                    
-  ›                     Copywrong (X) May, 1985                        
-  ›                  The Hackin' Hoodlum Press, Inc.                   
-  ›                                                                    
-  ›              Call:       The Hacker's Hideout                      
-  ›                          [206/265/6369]                            
-  ›                          Password:   U/L                           
-  ›                          300/1200 Baud                           
+  √ù                         √ù
+  √ù The Phreaker's HandBook
+  √ù___________________________________________
+  √ù                                                                  
+  √ù       Written by:  Cat-Trax √ÖThe "White-Collar Criminal
+  √ù       Typed by:    Cat-Trax                                         
+  √ù                                                                    
+  √ù                     Copywrong (X) May, 1985                        
+  √ù                  The Hackin' Hoodlum Press, Inc.                   
+  √ù                                                                    
+  √ù              Call:       The Hacker's Hideout                      
+  √ù                          [206/265/6369]                            
+  √ù                          Password:   U/L                           
+  √ù                          300/1200 Baud                           
  
  
  
@@ -29,7 +29,7 @@ Phreaker  ["free"-k-er]  Noun--1. One who engages in the act of "Phreaking"2. O
 <%=-------------------------------------------------------------------------=%>
 [ Introduction ]
  
-     Phreaking is a method used by most intelligent people ≈most often thosewho use a computer and a Modulator-Demodulator (MoDem)≥.  If you happen to resemble the major mass of people who do not have the income to afford large
+     Phreaking is a method used by most intelligent people √Ömost often thosewho use a computer and a Modulator-Demodulator (MoDem)¬≥.  If you happen to resemble the major mass of people who do not have the income to afford large
 phone bills then phreaking is for you.  If you live in an area with anElectronic Switching System [ESS] then phreaking is something which should be done in moderate amounts.
  
 <%=-------------------------------------------------------------------------=%>
@@ -40,7 +40,7 @@ Three types of switching systems are present in the United States today:
  
                [1] Step by Step
                [2] Crossbar
-               [3] ESS  ≈Electronic Switching System
+               [3] ESS  √ÖElectronic Switching System
  
  
                          <] Step by Step [>
@@ -70,8 +70,8 @@ The matrix is set-up in horizontal and vertical paths.  There are no definite di
                               <] ESS [>
  
 You probably were hoping I wouldn't talk about this nightmare, if you did youwill know why everyone doesn't want to be reminded about Bell's holocaust on
-America.  With ESS Bell knows:  every digit dialed ≈including mistakes!≥, whoyou call, when you called, how long you were connected, and in some cases,what you talked about!  Yes, this is the closest anyone has come to true Totalitarianism.  ESS is programmed to print out the numbers of people who make excessive calls to WATS numbers [Wide Area Telephone Service][1-800 numbers]or directory assistance.  This deadly trap is called "800 Exceptional CallingReport."  ESS can be programmed to print logs of who called certain numbers. Electronic Switching System makes the job of the FBI, Bell Security ≈TheGestapo in phreakin' tongue≥, NSA, and other organizations which like to invade
-our privacy, extremely easy!  Tracing is done in microseconds, and the resultsare printed out on the monitor of a Gestapo officer.  ESS can also pick upforeign tones on the line, like 2600 Hz. ≈used in blue boxes, discussed later≥Bell claims that the entire country will be plagued by ESS by the 1990's!
+America.  With ESS Bell knows:  every digit dialed √Öincluding mistakes!¬≥, whoyou call, when you called, how long you were connected, and in some cases,what you talked about!  Yes, this is the closest anyone has come to true Totalitarianism.  ESS is programmed to print out the numbers of people who make excessive calls to WATS numbers [Wide Area Telephone Service][1-800 numbers]or directory assistance.  This deadly trap is called "800 Exceptional CallingReport."  ESS can be programmed to print logs of who called certain numbers. Electronic Switching System makes the job of the FBI, Bell Security √ÖTheGestapo in phreakin' tongue¬≥, NSA, and other organizations which like to invade
+our privacy, extremely easy!  Tracing is done in microseconds, and the resultsare printed out on the monitor of a Gestapo officer.  ESS can also pick upforeign tones on the line, like 2600 Hz. √Öused in blue boxes, discussed later¬≥Bell claims that the entire country will be plagued by ESS by the 1990's!
  
                            +> Identification <+
    [A] Dialing 911 for emergencies.
@@ -85,19 +85,19 @@ our privacy, extremely easy!  Tracing is done in microseconds, and the resultsar
  
 [ Long-Distance Services ]
  
-To attempt to help the community ≈and for private business≥ companies developedways to lessen the costs of long-distance calling charges.  The companies owntheir own switching systems and use extenders for callers to call.  The way[
+To attempt to help the community √Öand for private business¬≥ companies developedways to lessen the costs of long-distance calling charges.  The companies owntheir own switching systems and use extenders for callers to call.  The way[
 extenders operate:  1] Customer calls service, 2] He/she hears a low tone whichsounds like a dial-tone, 3] She/he either dials the access code then the phone
-number, or dials the phone number then the access code, 4] Is connected to whatever he/she calls.  Aside from Ma Bells collection, the customer recieves abill for calls made with his/her long-distance company ≈a supposedly cheaperbill than Ma Bell's≥.  Thought:  Hey, I could randomly pick access codes anduse them to call whatever area the company services!  Righto, that's what basicphreaking is!  A wise idea, though, is to have many access codes and many service numbers to rotate throughout your average life as a phreaker.  To aid in your quest to beat the system I have provided many 1-800 numbers whichanyone can call, aside from local numbers, such as Sprint, or MCI.  The reason[0;36;40m
+number, or dials the phone number then the access code, 4] Is connected to whatever he/she calls.  Aside from Ma Bells collection, the customer recieves abill for calls made with his/her long-distance company √Öa supposedly cheaperbill than Ma Bell's¬≥.  Thought:  Hey, I could randomly pick access codes anduse them to call whatever area the company services!  Righto, that's what basicphreaking is!  A wise idea, though, is to have many access codes and many service numbers to rotate throughout your average life as a phreaker.  To aid in your quest to beat the system I have provided many 1-800 numbers whichanyone can call, aside from local numbers, such as Sprint, or MCI.  The reason[0;36;40m
 for providing you with WATS nummbers is because all of us aren't in a big citywhere Sprint or MCI even exist, this way everyone can pheak!  A way to findmore access codes is by using your old modem.  Yes, your modem can imitate DTMF
 tones!
  
-  ≈>Procedure:  1)  dial 1-800  +  service number
+  √Ö>Procedure:  1)  dial 1-800  +  service number
                 2)  dial access code->area code->phone number, or
                 3)  dial area code->phone number->access code
  
-≥≈::::::::::::::::::::::::::::::::::::::::::::::::::::::::≥≈
+¬≥√Ö::::::::::::::::::::::::::::::::::::::::::::::::::::::::¬≥√Ö
 \/           -=+>Cat-Trax' list of WATS [1-800] numbers:<+=-                 \/
-≥≈::::::::::::::::::::::::::::::::::::::::::::::::::::::::≥≈
+¬≥√Ö::::::::::::::::::::::::::::::::::::::::::::::::::::::::¬≥√Ö
  
   Number---Code Length...
   =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- 547-6754        6          245-4890    4   327-6713      4
@@ -118,9 +118,9 @@ tones!
  
 [ Colored Boxes ]
  
-A more shrewd, technological, safer ≈without ESS≥ way to phreak is with a piece of hardware known as a ________ Box.  Boxes are many different colors ≈I don't know ALL the colors because it seems like every time I turn around there's some
-new color out!≥.  Colors I have heard of:  Blue, Black, Red,White, Silver,Clear, and MANY, MANY more...  Plans for making these boxes can be obtained bycalling different boards [BBS's], AE lines, or whatever.  But!, if you havean
-Apple Cat modem then do I have good news for ->you<-!!  The Apple Cat modemcan emulate the frequencies ≈usually 2600 Hz.≥ made by ________ Boxes with the help of a handy little program called "Cat's Meow!"
+A more shrewd, technological, safer √Öwithout ESS¬≥ way to phreak is with a piece of hardware known as a ________ Box.  Boxes are many different colors √ÖI don't know ALL the colors because it seems like every time I turn around there's some
+new color out!¬≥.  Colors I have heard of:  Blue, Black, Red,White, Silver,Clear, and MANY, MANY more...  Plans for making these boxes can be obtained bycalling different boards [BBS's], AE lines, or whatever.  But!, if you havean
+Apple Cat modem then do I have good news for ->you<-!!  The Apple Cat modemcan emulate the frequencies √Öusually 2600 Hz.¬≥ made by ________ Boxes with the help of a handy little program called "Cat's Meow!"
 <%=-----------------------------------------------------=%>
  
 ::Warning!::  Phreak at your own risk!  Stiff laws are starting to pop-up nowdays.  But, if you're careful then don't worry!  I haven't been busted yet!Heck [Hack!], what would life be without risks?
@@ -150,17 +150,17 @@ Agents:  Mr. DOS            Terminator              Lumpy
 Call:
  
                  ______________________
-                ›\                     \
-                › __________________\
-                › ›                      ›
-                › › The Hacker's Hideout ›
-                › ›                      ›
-                  ›   [206][265][MEOW]   ›
-                › ›                      ›
-                › ›    Password:  U/L    ›
-                › ›                      ›
-                › ›    300/1200 Baud!    ›
-                \ ›                      ›
-                 \›______________________›
+                √ù\                     \
+                √ù __________________\
+                √ù √ù                      √ù
+                √ù √ù The Hacker's Hideout √ù
+                √ù √ù                      √ù
+                  √ù   [206][265][MEOW]   √ù
+                √ù √ù                      √ù
+                √ù √ù    Password:  U/L    √ù
+                √ù √ù                      √ù
+                √ù √ù    300/1200 Baud!    √ù
+                \ √ù                      √ù
+                 \√ù______________________√ù
 
 
