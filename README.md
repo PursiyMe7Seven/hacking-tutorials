@@ -1,5 +1,5 @@
-# hacking-tutorials
-hacking-tutorials
+# tutorials
 
 
-A Hacking tutorial collection. Most stuff is outdated. ONLY for educational purposes. 
+
+A collection of various tutorials. Most stuff is outdated. ONLY for educational purposes. 
